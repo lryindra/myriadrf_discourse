@@ -1,0 +1,7 @@
+source: git+git://github.com/myriadrf/LimeSuite.git
+gitrev: "17c3e05"
+
+Source: git_https://github.com/myriadrf/gr-limesdr
+gitrev: "a283ec4"
+
+LimeSuite/images/18.04/LimeSDR-USB_HW_1.4_r2.16.rbf
